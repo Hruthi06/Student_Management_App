@@ -59,6 +59,9 @@ public class StudentManagementSystem {
                     System.exit(0);
                 default:
                     System.out.println("Invalid choice. Try again.");
+
+
+                    
             }
         }
     }
